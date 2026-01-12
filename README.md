@@ -15,20 +15,21 @@ Live Calculation: The total price updates automatically as you change items.
 State Management: Built using React Props Drilling for clear data flow between components.
 
 # 🛠 Tech Stack
-Frontend: React.js
 
-Styling: TailWind CSS
+1. Frontend: React.js
 
-Logic: JavaScript (ES6+)
+2. Styling: TailWind CSS
 
-🚀 How to Run
-Clone the repository:
+3. Logic: JavaScript (ES6+)
+
+# 🚀 How to Run: 
+```
+* Clone the repository
 
 Bash
-
 git clone https://github.com/Jahir-tawhid/Add-To-Cart.git
 
-# Install dependencies:
+* Install dependencies:
 
 Bash
 npm install
@@ -36,7 +37,7 @@ Start the application:
 
 Bash
 npm start
-
+```
 # 📬 Contact Information
 Email: jahirtawhid1988@gmail.com
 
