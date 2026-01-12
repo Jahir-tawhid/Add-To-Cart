@@ -1,8 +1,9 @@
 
-🛒 Add To Cart Project (React)
+# 🛒 Add To Cart Project (React)
+
 This is a dynamic Shopping Cart application built with React.js. The project focuses on managing state and data flow using Props Drilling to handle product selections and cart updates.
 
-✨ Features
+# ✨ Features
 Add Products: Instantly add items to the shopping basket.
 
 Update Quantity: Increase or decrease product counts with a single click.
