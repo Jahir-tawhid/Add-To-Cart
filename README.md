@@ -1,16 +1,48 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛒 Add To Cart Project (React)
 
-Currently, two official plugins are available:
+This is a dynamic Shopping Cart application built with React.js. The project focuses on managing state and data flow using Props Drilling to handle product selections and cart updates.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# ✨ Features
+Add Products: Instantly add items to the shopping basket.
 
-## React Compiler
+Update Quantity: Increase or decrease product counts with a single click.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Remove Items: Easily delete specific products from the cart.
 
-## Expanding the ESLint configuration
+Live Calculation: The total price updates automatically as you change items.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+State Management: Built using React Props Drilling for clear data flow between components.
+
+# 🛠 Tech Stack
+
+1. Frontend: React.js
+
+2. Styling: TailWind CSS
+
+3. Logic: JavaScript (ES6+)
+
+# 🚀 How to Run: 
+```
+* Clone the repository
+
+Bash
+git clone https://github.com/Jahir-tawhid/Add-To-Cart.git
+
+* Install dependencies:
+
+Bash
+npm install
+Start the application:
+
+Bash
+npm start
+```
+# 📬 Contact Information
+Email: jahirtawhid1988@gmail.com
+
+LinkedIn: Jahirtawhid
+
+GitHub: @Jahir-tawhid
+
+Live Link: https://jahir-tawhid.github.io/Add-To-Cart/
